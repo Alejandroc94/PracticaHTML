@@ -19,6 +19,16 @@ height: 7rem;
     
 
 } */
+/* #img-p2{
+
+    text-align: center;
+
+}
+.o-portfolio .o-project .o-img-p2{
+
+    text-align: center;
+
+} */
 
 .o-portfolio{
 
@@ -36,7 +46,24 @@ height: 7rem;
     margin: 1rem;
     border: 2px solid black;
     border-radius: 10px 10px;
+}
 
+#project1{
+
+    text-align: center;
 
 }
+
+#project2{
+
+    text-align: center;
+
+}
+
+#project3{
+
+    text-align: center;
+
+}
+
 
