@@ -1,15 +1,31 @@
+
+
 .o-info-container{
     /* padding: 15px 0px 15px 500px; */
-    background-color:rgb(180, 180, 180);
-    margin: 20px 500px 0px 500px;
-    border: 2px solid black;
+    background-image: url(../resources/fondo3.jpg);
+    height: 100%;
+    width: 100%;
+    /* border: 0.5px solid black; */
     text-align: center;
-    padding: 15px 0px 15px 0px;
-    border-radius: 5%;
+    /* padding: 15px 50px 15px 0px; */
+    /* border-radius: 5%; */
+    justify-content: space-between;
+    /* margin: 0px 20px 0px 20px; */
+    text-shadow: 1px 0.5px 1px white;
+    font-size: 23px;
 }
+/* #parrafo{
+    text-shadow: 0em 0em 0em white;
+    /* font-size: 20px; */
+ 
+
 .o-img-profile{
-border-radius: 7px 7px;
-height: 7rem;
+border-radius: 50%;
+border: 5px solid white;
+height: 10rem;
+/* margin-top: -5px;
+align-items: center; */
+/* align-items: flex-end; */
 
 }
 
@@ -44,12 +60,14 @@ height: 7rem;
     background-color: rgb(220, 220, 220);
     padding: 1rem;
     margin: 1rem;
-    border: 2px solid black;
+    border: 0.5px solid black;
     border-radius: 10px 10px;
+    
 }
 
 #project1{
-
+    /* display: flex; */
+    /* justify-content: center; */
     text-align: center;
 
 }
